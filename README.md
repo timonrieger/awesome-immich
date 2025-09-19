@@ -16,6 +16,7 @@ See also https://immich.app/docs/community-projects/
 - [Optimization](#optimization)
 - [Sharing](#sharing)
 - [Distribution](#distribution)
+- [Home Automation](#home-automation)
   
 ## CLI Tools
 
@@ -37,6 +38,8 @@ See also https://immich.app/docs/community-projects/
 - [Immich-Tiktok-Remover](https://github.com/Nick-Eagles/immich-tiktok-remover) - Script to search for and remove TikTok videos from your Immich library.
 - [Immich Power Tools](https://github.com/varun7654/immich-power-tools) - Power tools for organizing your Immich library.
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
+- [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
+- [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
 
 ## Slideshow & Display
 
@@ -47,6 +50,7 @@ See also https://immich.app/docs/community-projects/
 
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
 - [Immich Kodi](https://github.com/steve-gombos/immich-kodi-plugin) - Unofficial Kodi plugin for Immich.
+- [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
 
 ## Optimization
 
@@ -61,6 +65,11 @@ See also https://immich.app/docs/community-projects/
 ## Distribution
 
 - [Immich Distribution](https://github.com/nsg/immich-distribution) - Snap package for easy install and zero-care auto updates of Immich.
+- [Immich in LXC](https://github.com/loeeeee/immich-in-lxc) - Install Immich in LXC with optional CUDA support for hardware acceleration.
+
+## Home Automation
+
+- [Immich Home Assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library on dashboards and smart displays.
 
 ## Contributing
 
