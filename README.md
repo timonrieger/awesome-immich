@@ -36,6 +36,7 @@ See also https://immich.app/docs/community-projects/
 - [Immich-Tools](https://github.com/3rob3/immich-tools) - Provides scripts for handling problems on the repair page.
 - [Immich-Tiktok-Remover](https://github.com/Nick-Eagles/immich-tiktok-remover) - Script to search for and remove TikTok videos from your Immich library.
 - [Immich Power Tools](https://github.com/varun7654/immich-power-tools) - Power tools for organizing your Immich library.
+- [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 
 ## Slideshow & Display
 
