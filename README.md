@@ -57,6 +57,7 @@ See also https://immich.app/docs/community-projects/
 
 - [Immich Public Proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [Immich Drop Uploader](https://github.com/Nasogaa/immich-drop) - A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server.
+- [Immich Book](https://github.com/ch1bo/immich-book) - Create beautiful photo books from your Immich albums.
   
 ## Distribution
 
