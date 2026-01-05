@@ -20,6 +20,7 @@ See also https://immich.app/docs/community-projects/
 ## CLI Tools
 
 - [immich-go](https://github.com/simulot/immich-go) - Alternative CLI tool that doesn't depend on Node.js, specializes in importing Google Photos Takeout archives.
+- [Immich Python Client](https://github.com/timonrieger/immich-python-client) - Python client for Immich (HTTP + CLI).
 - [Powershell Module PSImmich](https://github.com/hanpq/PSImmich) - PowerShell module for the Immich API.
 
 ## Import/Export Tools
