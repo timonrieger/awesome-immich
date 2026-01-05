@@ -35,7 +35,7 @@ See also https://immich.app/docs/community-projects/
 - [Remove offline files](https://github.com/Derkades/immich-remove-offline-files) - Simple way to remove orphaned offline assets from the Immich database.
 - [Immich-Tools](https://github.com/3rob3/immich-tools) - Provides scripts for handling problems on the repair page.
 - [Immich-Tiktok-Remover](https://github.com/Nick-Eagles/immich-tiktok-remover) - Script to search for and remove TikTok videos from your Immich library.
-- [Immich Power Tools](https://github.com/varun7654/immich-power-tools) - Power tools for organizing your Immich library.
+- [Immich Power Tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your Immich library.
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
